@@ -1,9 +1,34 @@
 {
     "items": [
       {
-        "id": 1,
-        "checked": false,
-        "item": "Cookies"
+        "id": "2",
+        "item": "Bread",
+        "checked": false
+      },
+      {
+        "id": "3",
+        "item": "Egg",
+        "checked": false
+      },
+      {
+        "id": "4",
+        "item": "Atta-5kg",
+        "checked": false
+      },
+      {
+        "id": "5",
+        "item": "Rice-5kg",
+        "checked": false
+      },
+      {
+        "id": "6",
+        "item": "Jaggary-1kg",
+        "checked": false
+      },
+      {
+        "id": "7",
+        "item": "Salt-1kg",
+        "checked": false
       }
     ]
   }
